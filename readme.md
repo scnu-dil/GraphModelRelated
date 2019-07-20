@@ -1,6 +1,7 @@
 
 # GraphModelRelated
-intorduction of this repo
+
+经典的 Graph Embedding、Graph Kernel 到图神经网络都有涉及。它们在图嵌入、图分类、图表征等领域都是非常重要的论文。
 
 # Paper
 
